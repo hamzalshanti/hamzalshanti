@@ -19,9 +19,9 @@ Expert full-stack web developer, I combine my software experience with writing c
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzalshanti&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzalshanti&hide=html,css&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Hamza's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=hamzalshanti&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Hamza's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=hamzalshanti&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
