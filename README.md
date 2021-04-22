@@ -1,5 +1,9 @@
 ### Hi there 👋, I am Hamza Alshanti
-https://img.shields.io/github/followers/hamzalshanti?label=hamzalshanti&style=social https://img.shields.io/twitter/follow/hamzalshanti?style=social
+
+--- 
+
+![GitHub followers](https://img.shields.io/github/followers/hamzalshanti?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/hamzalshanti?style=social)
 
 <!--
 **hamzalshanti/hamzalshanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
